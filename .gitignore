@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/FlaskPoc.iml
+.idea/IDS.iml
+.idea/code-comments.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+Makefile
+Readme.txt
+__pycache__/
+app/
+envs/
+manage.py
+migrations/
+requirements.txt
